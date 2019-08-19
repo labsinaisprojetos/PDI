@@ -112,3 +112,5 @@ config/data_parameters.json
 *.npy
 *.pkl
 
+3-Combining_Images/4-Video Background Subtraction/Background_Subtraction.avi
+3-Combining_Images/4-Video Background Subtraction/Video Background Subtraction.ipynb
